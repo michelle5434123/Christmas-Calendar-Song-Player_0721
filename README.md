@@ -8,10 +8,12 @@ This is a simple interactive web app where selecting December 25 (Christmas) on 
 - **Try Counter** — tracks how many date selections have been made
 
 ## Project Structure
-- christmas-calendar-player
+📦 christmas-calendar-player
 ├── index.html       # Main HTML file
 ├── style.css        # Styling for layout and calendar
 ├── script.js        # JavaScript logic (date check, audio, counter)
 ├── xmas.mp3         # Christmas song (user-provided)
 └── README.md        # This documentation
+
+
 
