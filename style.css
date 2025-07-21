@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(to bottom, #fff, #f0f8ff);
+}
+
+h1 {
+    color: darkgreen;
+}
+
+#calendar {
+    font-size: 1.2rem;
+    padding: 6px;
+}
+
+#message {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    color: red;
+}
+
+#count {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    color: yellowgreen;
+}
