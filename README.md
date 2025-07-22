@@ -6,3 +6,11 @@ This is a simple interactive web app where selecting December 25 (Christmas) on 
 - **Date Picker** with native HTML `<input type="date">`
 - **Plays a Christmas song** when 12/25 is selected
 - **Try Counter** — tracks how many date selections have been made
+
+
+## How It Works
+- **Selecting a date** from the calendar triggers a check.
+- If the selected date **is December 25**:
+  - A festive message is shown.
+  - **A Christmas song** starts playing automatically.
+- Each date selection increases a visible **try counter** on the page.
